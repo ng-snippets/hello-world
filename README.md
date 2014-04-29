@@ -1,5 +1,7 @@
 ####Hello World for AngularJS 
 
+Live @ http://ng-snippets.github.io/hello-world/
+
 This is the simplest form of AngularJS code. 
 
 AngularJS ( ng in short ) uses MVC architecture at client side. 
