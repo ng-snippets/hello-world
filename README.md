@@ -10,7 +10,7 @@ It uses custom HTML tags, so it appears like we dont need to use any javascript 
 <code>ng-app</code> tag is used to mark the scope where angular can be used. We added that in <code>&lt;body&gt;</code> to specify whole body is used for angular. 
 
 <code>ng-init</code> tag is used to initialize values. Here we used it to add
-some predefined value to <code>model</codea>. Remove <code>ng-init</code> and
+some predefined value to <code>model</code>. Remove <code>ng-init</code> and
 check how it behaves
 
 <code>ng-model</code> tag stores the data and it can be used to write/update or view anywhere else in the page. 
