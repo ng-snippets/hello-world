@@ -5,8 +5,8 @@
     <title>base project</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js" ></script>
 </head>
-<body ng-app>
+<body ng-app ng-init="name='world'">
     <h3> Hello {{ name}} </h3>
-    <input type="text" placeholder="Your Name" ng-model="name" />
+    <input type="text" placeholder="Your Name" ng-model="name" /> &larr; Change the value in the input box
 </body>
 </html>
